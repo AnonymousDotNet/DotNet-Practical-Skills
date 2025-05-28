@@ -4,10 +4,11 @@
 * [.NET Core 基础知识](#net-core-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86)
   * [ASP.NET Core基础知识概述](#aspnet-core%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%A6%82%E8%BF%B0)
   * [ASP.NET Core 官方文档](#aspnet-core-%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3)
+  * [Blazor](#blazor)
 
 
 
-  ## C# 基础语法
+## C# 基础语法
 
 微软官方教程地址 ：[C# 文档 - 入门、教程、参考。 | Microsoft Learn](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
 
