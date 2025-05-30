@@ -289,7 +289,7 @@ K3s 是轻量级的 Kubernetes。K3s 易于安装，仅需要 Kubernetes 内存�
 [.NET 微服务。适用于容器化](https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/)
 
 [使用 DDD 和 CQRS 模式降低微服务中的业务复杂性](https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/)
-![image](https://user-images.githubusercontent.com/61819790/216746296-04898b29-04ef-473d-a28f-3bbe851de06d.png)
+![image](https://learn.microsoft.com/zh-cn/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/media/index/internal-versus-external-architecture.png)
 
 #### 领域驱动设计(DDD)
 域驱动设计 (DDD) 提倡基于与用例相关的真实业务来构建模型。 在构建应用程序的上下文中，DDD 用域来描述问题。 它将独立的问题区域描述为界定的上下文（每个界定的上下文关联一个微服务），并强调使用一种通用的语言来讨论这些问题。 它还提出许多技术概念和模式，如具有充血模型的域实体（无贫血模型）、值对象、聚合和聚合根（或根实体）规则，用于支持内部实现。 本部分介绍这些内部模式的设计和实现。
